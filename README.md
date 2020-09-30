@@ -21,3 +21,5 @@ PS：这里主要分享脚本，炼金攻略大家自行研究。
 # 代码
 
 完整代码在文件 dog.lua 中。
+
+[https://github.com/ohyeah233/alchemist-script/blob/master/dog.lua](https://github.com/ohyeah233/alchemist-script/blob/master/dog.lua)
