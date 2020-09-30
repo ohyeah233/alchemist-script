@@ -18,8 +18,16 @@ PS：这里主要分享脚本，炼金攻略大家自行研究。
 
 参照这个技能的摆放位置就可以了，这里坑位一共是6个点还是7个点我忘记了，我用蓝色标记了起来，挂机的时候可以自己看下，一个炼金就占这么多个坑，简直了哈哈哈。
 
+![alt](https://github.com/ohyeah233/alchemist-script/blob/master/ro-1.jpg)
+
 # 代码
 
 完整代码在文件 dog.lua 中。
 
 [https://github.com/ohyeah233/alchemist-script/blob/master/dog.lua](https://github.com/ohyeah233/alchemist-script/blob/master/dog.lua)
+
+# 运行脚本
+
+打开下图左下角触动精灵的悬浮按钮TS，然后点击运行，就能看到自动挂机了。240+90，我个人是320z+125精炼材料，因人而异，有好的坑和能秒收益才高，找坑会比较累，不过还是祝大家挂机快乐，佛系游戏！
+
+![alt](https://github.com/ohyeah233/alchemist-script/blob/master/ro-3.jpg)
